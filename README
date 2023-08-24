@@ -1,0 +1,55 @@
+# To Do List
+
+This project aims to create the frontend of a task list application (To Do List) that allows users to effectively organize and manage their daily tasks. The application should provide a dynamic interface for querying, adding, modifying, and deleting tasks.
+
+## Features
+
+- Create Task: Users can add new tasks to the list, providing a title and a description.
+- Read Tasks: Users can view all existing tasks in a list.
+- Mark Task as Completed: Users can mark a task as completed.
+- Edit Task: Users can edit the title and description of an existing task.
+- Delete Task: Users can delete a task from the list.
+- Sort Tasks: Users can sort tasks by creation date, due date, status, etc.
+
+## Additional Features
+
+- Filter Tasks: Users can filter tasks by status (completed / pending).
+- Comments on Tasks: Users can add comments to specific tasks.
+- Task Categorization: Allow users to assign categories or tags to their tasks for better organization.
+- Task Priorities: Users can assign priorities to tasks (high, medium, low) and sort them accordingly.
+- User Registration: Users can register in the application by providing a username and password.
+
+## Requeriments
+
+- The design must follow the Mobile First approach.
+- Adhere to coding best practices and appropriate naming conventions.
+- Implement GitFlow for version control.
+- Individual work is required.
+- Apply SCRUM methodology:
+- Define user stories with their respective requirements and acceptance criteria.
+- Use a Kanban board to track task progress.
+- Complete the work within a sprint of 8 effective days (demo and delivery on 25/08).
+
+## Evaluation
+
+The demo will last for 10 minutes and will be divided as follows:
+- 3 minutes to explain the workflow and status of the product backlog.
+- 2 minutes for the demonstration.
+- 5 minutes for a code review.
+
+## Deliverables
+
+- README file
+- GitHub repository
+- GitHub Pages link
+- Figma design (if applicable)
+- Demo and code review
+- Kanban board
+
+## Performance Criteria
+
+- Correct delivery of files in the GIT repository.
+- Adherence to general working guidelines up to the date.
+- Fulfillment of the final presentation guidelines.
+- Compliance with the coding best practices learned.
+
